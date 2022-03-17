@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "547202433997",
+    "project_id": "app-meucasamento",
+    "storage_bucket": "app-meucasamento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547202433997:android:9f7a97ce6e7eaaf091fa84",
+        "android_client_info": {
+          "package_name": "com.dsilvaadv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547202433997-96kc75kur3eh0ad52qqk0rqp8c1l9bvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgsn-gxnH75y4AfwiFRrCrRcH645XnXo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547202433997-96kc75kur3eh0ad52qqk0rqp8c1l9bvg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547202433997-ralkb0qekol2ns51aluq5flugbacbapl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dsilvaadv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
