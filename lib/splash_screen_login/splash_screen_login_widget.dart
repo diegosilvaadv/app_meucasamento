@@ -126,7 +126,7 @@ class _SplashScreenLoginWidgetState extends State<SplashScreenLoginWidget>
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'Alexis & Jonathon',
+                      'Camilla & Diego',
                       style: FlutterFlowTheme.of(context).title1.override(
                             fontFamily: 'Winlove',
                             fontSize: 32,
@@ -141,7 +141,7 @@ class _SplashScreenLoginWidgetState extends State<SplashScreenLoginWidget>
                   children: [
                     Expanded(
                       child: Text(
-                        'Welcome! Enter the code on our invitation in order to access the app.',
+                        'Seja Bem vindo (a)! Digite o código que recebera do nosso convite.',
                         textAlign: TextAlign.center,
                         style: FlutterFlowTheme.of(context).subtitle1,
                       ),
@@ -159,7 +159,7 @@ class _SplashScreenLoginWidgetState extends State<SplashScreenLoginWidget>
                                 fontFamily: 'Cormorant Garamond',
                                 fontSize: 16,
                               ),
-                      hintText: 'Your Email',
+                      hintText: 'Seu E-mail',
                       hintStyle: FlutterFlowTheme.of(context).title3.override(
                             fontFamily: 'Dancing Script',
                             color: FlutterFlowTheme.of(context).grayIcon,
@@ -199,7 +199,7 @@ class _SplashScreenLoginWidgetState extends State<SplashScreenLoginWidget>
                                 fontFamily: 'Cormorant Garamond',
                                 fontSize: 16,
                               ),
-                      hintText: 'Passcode',
+                      hintText: 'Senha',
                       hintStyle: FlutterFlowTheme.of(context).title3.override(
                             fontFamily: 'Dancing Script',
                             color: FlutterFlowTheme.of(context).grayIcon,
@@ -291,7 +291,7 @@ class _SplashScreenLoginWidgetState extends State<SplashScreenLoginWidget>
                             ),
                           );
                         },
-                        text: 'Login',
+                        text: 'Entrar',
                         options: FFButtonOptions(
                           width: 230,
                           height: 50,

@@ -28,7 +28,7 @@ class _SocialFeedWidgetState extends State<SocialFeedWidget> {
         backgroundColor: FlutterFlowTheme.of(context).pageBackground,
         automaticallyImplyLeading: false,
         title: Text(
-          'Our Memories',
+          'Nossas Memórias',
           style: FlutterFlowTheme.of(context).title2,
         ),
         actions: [],

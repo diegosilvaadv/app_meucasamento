@@ -151,7 +151,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'Alexis & Jonathon',
+                      'Camilla & Diego',
                       style: FlutterFlowTheme.of(context).title1.override(
                             fontFamily: 'Winlove',
                             fontSize: 32,
@@ -165,7 +165,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'SEP. 4, 2021',
+                      '18 de Agosto 2020',
                       style: FlutterFlowTheme.of(context).title1.override(
                             fontFamily: 'Winlove',
                             color: FlutterFlowTheme.of(context).primaryColor,
@@ -183,7 +183,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text(
-                        'LINCOLN, MA',
+                        'SÃO PAULO - SP',
                         style: FlutterFlowTheme.of(context).subtitle2,
                       ),
                     ],
@@ -205,7 +205,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                           );
                         },
                         child: IconButtonWidget(
-                          title: 'Transportation',
+                          title: 'Viagem',
                           iconImage:
                               'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/wedding-app-anuwld/assets/zvquhp118l1g/-honeymoon.svg',
                         ),
@@ -220,7 +220,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                           );
                         },
                         child: IconButtonWidget(
-                          title: 'Ceremony',
+                          title: 'Ceremonia',
                           iconImage:
                               'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/wedding-app-anuwld/assets/iezkxwvkt11k/-wedding-arch.svg',
                         ),
@@ -244,7 +244,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                           );
                         },
                         child: IconButtonWidget(
-                          title: 'Our Story',
+                          title: 'Nossa história',
                           iconImage:
                               'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/wedding-app-anuwld/assets/ditc97qgthl5/-wedding-rings.svg',
                         ),
@@ -259,7 +259,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                           );
                         },
                         child: IconButtonWidget(
-                          title: 'Wedding Party',
+                          title: 'Patrinhos',
                           iconImage:
                               'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/wedding-app-anuwld/assets/2bagcp8xo1lu/-wedding-party.svg',
                         ),

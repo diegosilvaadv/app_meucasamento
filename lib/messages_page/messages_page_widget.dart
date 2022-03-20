@@ -27,7 +27,7 @@ class _MessagesPageWidgetState extends State<MessagesPageWidget> {
         backgroundColor: FlutterFlowTheme.of(context).pageBackground,
         automaticallyImplyLeading: false,
         title: Text(
-          'Messages',
+          'Mensagens',
           style: FlutterFlowTheme.of(context).title2,
         ),
         actions: [],
